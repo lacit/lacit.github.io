@@ -1,3 +1,2 @@
-# Lacit Website
+# Lacit
 
-In progress
