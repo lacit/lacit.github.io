@@ -29,7 +29,8 @@ html,
 body {
   height: 100%;
   color: #fff;
-  background-color: lightskyblue;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 40%, rgba(0,212,255,1) 100%); 
 }
 body {
   text-align: center;
