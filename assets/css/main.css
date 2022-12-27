@@ -11,6 +11,12 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@font-face {
+  font-family: 'lacit';
+  src: url('FontsFree-Net-Vogie-Bold.ttf')  format('truetype') /* Safari, Android, iOS */
+}
+
 :root {
   scroll-behavior: smooth;
 }
